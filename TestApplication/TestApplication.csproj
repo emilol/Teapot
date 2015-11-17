@@ -56,8 +56,8 @@
     <Compile Include="Implementations\BeerPot.cs" />
     <Compile Include="Implementations\ChivesAndBasilPlant.cs" />
     <Compile Include="Implementations\CoffeePot.cs" />
-    <Compile Include="Implementations\GoldPot.cs" />
     <Compile Include="Implementations\HoneyPot.cs" />
+    <Compile Include="Implementations\PotOfGold.cs" />
     <Compile Include="Implementations\PotPlant.cs" />
     <Compile Include="Implementations\RosemaryAndThymePlant.cs" />
     <Compile Include="Implementations\Teapot.cs" />
